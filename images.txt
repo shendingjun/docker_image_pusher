@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/amd64 vllm/vllm-openai:v0.11.0
 #--platform=linux/amd64 qdrant/qdrant:v1.15.5-gpu-nvidia
---platform=linux/amd64 vllm/vllm-openai:nightly
+#--platform=linux/amd64 vllm/vllm-openai:nightly
+--platform=linux/amd64 vllm/vllm-openai:v0.11.2
