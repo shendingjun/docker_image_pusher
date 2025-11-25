@@ -7,4 +7,4 @@
 #--platform=linux/amd64 qdrant/qdrant:v1.15.5-gpu-nvidia
 #--platform=linux/amd64 vllm/vllm-openai:nightly
 #--platform=linux/amd64 vllm/vllm-openai:v0.11.2
---platform=linux/amd64 vllm/vllm-openai:v0.10.1.1
+--platform=linux/amd64 openresty/openresty:1.27.1.2-5-alpine-fat
