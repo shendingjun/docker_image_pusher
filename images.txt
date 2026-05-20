@@ -10,4 +10,13 @@
 #--platform=linux/amd64 openresty/openresty:1.27.1.2-5-alpine-fat
 #--platform=linux/amd64 gpustack/gpustack:v2.0.0
 #--platform=linux/amd64 vllm/vllm-openai:v0.12.0
---platform=linux/amd64 postgres:15-alpine
+#--platform=linux/amd64 postgres:15-alpine
+--platform=linux/amd64 langgenius/dify-web:1.13.3
+--platform=linux/amd64 nginx:1.30.1
+--platform=linux/amd64 langgenius/dify-api:1.13.3
+--platform=linux/amd64 redis:6-alpine
+--platform=linux/amd64 langgenius/dify-plugin-daemon:0.5.3-local
+--platform=linux/amd64 ubuntu/squid:latest
+--platform=linux/amd64 langgenius/dify-sandbox:0.2.14
+--platform=linux/amd64 semitechnologies/weaviate:1.27.0
+--platform=linux/amd64 busybox:1.37.0
