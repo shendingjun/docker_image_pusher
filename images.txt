@@ -22,4 +22,4 @@
 #--platform=linux/amd64 busybox:1.37.0
 #--platform=linux/amd64 vllm/vllm-openai:v0.21.0
 #--platform=linux/amd64 vllm/vllm-openai:v0.22.1
---platform=linux/amd64 langgenius/dify-plugin-daemon:0.5.5-local
+--platform=linux/arm64 langgenius/dify-plugin-daemon:0.5.5-local
