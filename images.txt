@@ -23,4 +23,4 @@
 #--platform=linux/amd64 vllm/vllm-openai:v0.21.0
 #--platform=linux/amd64 vllm/vllm-openai:v0.22.1
 #--platform=linux/arm64 langgenius/dify-plugin-daemon:0.5.5-local
---platform=linux/amd64 nginx:stable-alpine
+--platform=linux/amd64 nginx:1.30.6
