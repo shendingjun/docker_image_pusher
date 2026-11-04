@@ -24,4 +24,5 @@
 #--platform=linux/amd64 vllm/vllm-openai:v0.22.1
 #--platform=linux/arm64 langgenius/dify-plugin-daemon:0.5.5-local
 #--platform=linux/amd64 nginx:1.30.6
---platform=linux/amd64 onlyoffice/documentserver-ee:10.0.2.1
+#--platform=linux/amd64 onlyoffice/documentserver-ee:10.0.2.1
+--platform=linux/amd64 onlyoffice4enterprise/documentserver-ee
